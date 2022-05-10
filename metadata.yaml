@@ -1,5 +1,5 @@
 homepage: "https://growthsavvy.io/"
 versions:
   # Latest version
-  - sha: xxx
+  - sha: 51ad65a4a502cf70706d5ec8615193ac36fc3113
     changeNotes: Initial Version
